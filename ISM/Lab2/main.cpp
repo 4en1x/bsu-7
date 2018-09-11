@@ -12,7 +12,7 @@ using namespace std;
 const int n = 1000;
 
 template <class T = unsigned long>
-T C(unsigned long n, unsigned long k) {
+T C(unsigned long k, unsigned long n) {
     unsigned long i;
     T b;
     if (0 == k || n == k) {
@@ -85,7 +85,7 @@ template <size_t N>
 double pearson_negative_binomial(array<double, N> a, double p, int r) {
     double s = 0;
     for(int i = 0; i < 100; i += 1) {
-        double v = C(i + r - 1, i) * pow(p, r) * pow(1 - p, i);
+        double v = C(i, i + r - 1) * pow(p, r) * pow(1 - p, i);
         s += pow(double(count_if(a.begin(), a.end(), [&i](int j) {return j == i;}))/ N -  v, 2) / v;
     }
     return s * N;
