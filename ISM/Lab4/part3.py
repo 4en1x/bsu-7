@@ -14,7 +14,7 @@ p = [
     [0.5, 0.5]
 ]
 
-N = 1000
+N = 10
 m = 10000
 
 i = [0] * N
@@ -41,4 +41,4 @@ for j in range(m):
         ξ[j] += Q[k] * f[i[k]]
 
 print(sum(ξ) / m)
-
+print("Right answer is (3.04, 2.609)")
