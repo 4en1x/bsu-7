@@ -1,0 +1,145 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="BFEE57AD-4247-9BB9-A3D5-B04C1D5B2BC6" name="EMPLOYEEv1">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>8A70C214-3F30-AC10-9628-87EDD4A99505</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ID" id="03F127AB-774C-952A-63B8-B71BE104C299">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>5FFFB997-7690-95E3-FB83-3AD294434870</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="First_Name" id="20AEC200-B8D5-4B53-7C43-49A7D68B53C8">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>8ABD1949-9D92-B89C-B724-88C46CC893D7</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT040</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Last_Name" id="37A8A9E8-82F7-7D9B-45EA-11656ED7E8F7">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>5BC9ABF6-4312-0B7B-A259-DDE1CCF33696</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT040</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Hire_Date" id="0ABD6619-52DB-621B-B7BB-C5150291B85A">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>338BB593-7054-DACF-1D41-873DE6AD859F</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Salary" id="B5D317C0-9077-83B7-6994-B23ECC40D18F">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>30BA8616-1B81-AE33-5096-E9902049089E</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT043</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Commission" id="6A594077-AC1E-D435-8B5F-1068E0107417">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>A928B52B-7C25-4B5C-B577-75FA17363D63</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DEPARTMENTv1_ID" id="C7D1B64F-B85E-99E1-9D9B-1140444873F3">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>B360D9A9-42DC-592F-799A-44393DA64F6B</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="D151D42E-14A5-D9CA-DA09-E5B95540330D" referredColumn="E670510C-342B-5EA2-67BE-9395009C25B7"/>
+</associations>
+</Column>
+<Column name="JOB_JOB_ID" id="6632BD2D-0BE0-DF88-934C-4032C3554F52">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>BF26A874-1AE0-9A39-4665-938F95BE01E3</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="EFD55DC5-D9A0-96E9-8AE2-3F1B36651BAA" referredColumn="5BAB69D0-9567-B0CE-E156-F6673DA90490"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="4E09070E-053E-9B11-B729-DF11BE3EA74D" name="EMPLOYEEv1_PK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>50E9594B-D90C-FA95-5DD0-AE83D61B96A3</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="03F127AB-774C-952A-63B8-B71BE104C299"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="E418F8AC-E570-0946-AA6C-08DBAB1D809F" name="EMPLOYEEv1_DEPARTMENTv1_FK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:32 UTC</createdTime>
+<generatorID>9D0BA66F-7803-DEBE-7A75-99704CC2AB3D</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="C7D1B64F-B85E-99E1-9D9B-1140444873F3"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="852A57C5-74AF-39B9-FBD6-D86693F1F57F" name="EMPLOYEEv1_JOB_FK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:32 UTC</createdTime>
+<generatorID>5C38A549-F49C-29E0-86BF-002F5A93357E</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="6632BD2D-0BE0-DF88-934C-4032C3554F52"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

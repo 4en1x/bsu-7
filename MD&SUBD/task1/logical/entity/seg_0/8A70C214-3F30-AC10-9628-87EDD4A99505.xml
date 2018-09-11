@@ -1,0 +1,134 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="8A70C214-3F30-AC10-9628-87EDD4A99505" name="EMPLOYEEv1">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 13:24:12 UTC</createdTime>
+<ownerDesignName>task1</ownerDesignName>
+<engineerTo>
+<item key="8FA94E49-986A-BA75-5455-F817052D70B8" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="ID" id="5FFFB997-7690-95E3-FB83-3AD294434870">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 13:26:58 UTC</createdTime>
+<ownerDesignName>task1</ownerDesignName>
+<engineerTo>
+<item key="8FA94E49-986A-BA75-5455-F817052D70B8" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="First Name" id="8ABD1949-9D92-B89C-B724-88C46CC893D7">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 13:28:31 UTC</createdTime>
+<ownerDesignName>task1</ownerDesignName>
+<engineerTo>
+<item key="8FA94E49-986A-BA75-5455-F817052D70B8" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT040</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Last Name" id="5BC9ABF6-4312-0B7B-A259-DDE1CCF33696">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 13:34:19 UTC</createdTime>
+<ownerDesignName>task1</ownerDesignName>
+<engineerTo>
+<item key="8FA94E49-986A-BA75-5455-F817052D70B8" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT040</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Hire Date" id="338BB593-7054-DACF-1D41-873DE6AD859F">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 13:34:44 UTC</createdTime>
+<ownerDesignName>task1</ownerDesignName>
+<engineerTo>
+<item key="8FA94E49-986A-BA75-5455-F817052D70B8" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Salary" id="30BA8616-1B81-AE33-5096-E9902049089E">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 13:35:46 UTC</createdTime>
+<ownerDesignName>task1</ownerDesignName>
+<engineerTo>
+<item key="8FA94E49-986A-BA75-5455-F817052D70B8" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT043</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Commission" id="A928B52B-7C25-4B5C-B577-75FA17363D63">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 13:36:30 UTC</createdTime>
+<ownerDesignName>task1</ownerDesignName>
+<engineerTo>
+<item key="8FA94E49-986A-BA75-5455-F817052D70B8" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ID1" id="B360D9A9-42DC-592F-799A-44393DA64F6B">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 13:50:46 UTC</createdTime>
+<generatorID>9D0BA66F-7803-DEBE-7A75-99704CC2AB3D</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<engineerTo>
+<item key="8FA94E49-986A-BA75-5455-F817052D70B8" value="true"/>
+</engineerTo>
+<referedAttribute>D05AD961-E29D-37E8-384C-5E476F758F39</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="JOB ID" id="BF26A874-1AE0-9A39-4665-938F95BE01E3">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 13:56:29 UTC</createdTime>
+<generatorID>5C38A549-F49C-29E0-86BF-002F5A93357E</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<engineerTo>
+<item key="8FA94E49-986A-BA75-5455-F817052D70B8" value="true"/>
+</engineerTo>
+<referedAttribute>D1AB5E7D-96A4-F4F8-86CC-243325A908B5</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="50E9594B-D90C-FA95-5DD0-AE83D61B96A3" name="EMPLOYEEv1 PK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 13:42:47 UTC</createdTime>
+<ownerDesignName>task1</ownerDesignName>
+<engineerTo>
+<item key="8FA94E49-986A-BA75-5455-F817052D70B8" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>5FFFB997-7690-95E3-FB83-3AD294434870</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

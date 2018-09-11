@@ -1,0 +1,59 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="7D1EF8F5-77B4-141A-76D3-D24A7D67DD61" name="IN_HOUSE_TRAINER">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>FFDC0333-5AD6-CDA1-A1A5-EFCB1267D843</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ID" id="D39E2379-BA80-2753-141D-8E9256F8AC09">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>DFA51029-B51B-D746-78B4-2621CAD3E5D7</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="First_Name" id="1E55406C-2082-930A-266B-CB28745B4979">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>1F740830-C749-6A7E-737B-ABE3629357DD</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT040</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Last_Name" id="31F4C1E4-2A3C-3145-6137-FFBFAF0EBE80">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>2B99E9B8-1CA1-0304-81E1-9A5836C05FB7</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT040</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="D1C2932C-6DDE-E55D-7627-C6D922AB03E4" name="IN_HOUSE_TRAINER_PK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>C62096C8-80A1-55F2-7E53-1CC82AF48C1D</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D39E2379-BA80-2753-141D-8E9256F8AC09"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

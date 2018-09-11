@@ -1,0 +1,85 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="F49E3F33-79B8-5F03-6266-5F830510D7C4" name="ENTRY-LEVEL_EMPLOYEE">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>948D72A4-453D-4B76-66EB-3C1F6CD13741</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Badge_number" id="BC8C5628-4850-0F85-A39C-E3E8AC428EDC">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>DBFB353B-E471-3E03-5E5B-71931919B327</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Name" id="5D66B299-6D47-D0FC-5131-51E327D18217">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>698AFAA5-9F31-38F3-A543-D2ACC1A38CA6</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT040</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Salary" id="B1BF6C79-28E9-E716-4F7E-E69D077514D7">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>C37EF15C-99B4-9F02-0A57-A5BEA1CEFAB2</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Manager_Badge_number" id="8B9869B8-FBA6-63EC-BAB5-6F2A1F057600">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>4FFB4C4A-5D5B-32E7-B3C5-669C541542FF</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="BCC7277D-CAA5-2C43-9DA7-4A771A98BF18" referredColumn="24DFE740-A7A6-761E-5013-7266031EDFFD"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="EB8777AC-7394-6D3E-7DD5-1AC91CB4676D" name="ENTRY-LEVEL_EMPLOYEE_PK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>04E48D64-58C9-43D3-E191-CF3ABCD58F65</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="BC8C5628-4850-0F85-A39C-E3E8AC428EDC"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="A5B760EE-BD8B-6F5A-6F9B-3AD6EB28923D" name="ENTRY-LEVEL_EMPLOYEE_Manager_FK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:32 UTC</createdTime>
+<generatorID>F7BB47DE-6738-8FEA-4CDB-376D0191A9C1</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="8B9869B8-FBA6-63EC-BAB5-6F2A1F057600"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

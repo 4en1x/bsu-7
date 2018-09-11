@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="task1" id="9C8291E7-6377-FE2F-4981-83176E058D88" version="3.5">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-10 02:41:03 UTC</createdTime>
+<ownerDesignName>task1</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>9C8291E7-6377-FE2F-4981-83176E058D88</designId>
+</OSDM_Design>

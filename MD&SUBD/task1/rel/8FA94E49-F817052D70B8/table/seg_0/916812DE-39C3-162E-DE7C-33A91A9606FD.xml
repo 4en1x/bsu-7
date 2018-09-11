@@ -1,0 +1,64 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="916812DE-39C3-162E-DE7C-33A91A9606FD" name="EMPLOYEE">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-10 02:50:59 UTC</createdTime>
+<generatorID>45A0234D-CFC4-30D1-A045-FDB19C00C620</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="DEPARTMENT_DEPARTMENT_ID" id="8793DBCF-ABBF-0FB7-0565-7F7C66F09246">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-10 02:50:59 UTC</createdTime>
+<ownerDesignName>task1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="148BB415-DBE6-1621-150A-67ACFF53FAFB" referredColumn="CD5A67E2-D039-B2AC-BD98-CC73E39FE76F"/>
+</associations>
+</Column>
+<Column name="DEPARTMENT_DEPARTMENT_ID1" id="6EF64461-86B7-1550-787F-C5D870858888">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:32 UTC</createdTime>
+<ownerDesignName>task1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="1EFB1AD7-C9E7-88DC-0327-40E060E754AB" referredColumn="CD5A67E2-D039-B2AC-BD98-CC73E39FE76F"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="2C0B27C0-833E-ABE4-9A2E-9D0DBC3C9B67" name="EMPLOYEE_DEPARTMENT_FK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-10 02:50:59 UTC</createdTime>
+<generatorID>67B8FAAE-3A85-8F1A-55B3-11D2052F53EF</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="8793DBCF-ABBF-0FB7-0565-7F7C66F09246"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="1318A54F-D3F5-93C4-77B1-235AF1764D58" name="EMPLOYEE_DEPARTMENT_FKv2">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:32 UTC</createdTime>
+<generatorID>2427A4F2-E424-3556-7756-29C5BD7482B9</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="6EF64461-86B7-1550-787F-C5D870858888"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

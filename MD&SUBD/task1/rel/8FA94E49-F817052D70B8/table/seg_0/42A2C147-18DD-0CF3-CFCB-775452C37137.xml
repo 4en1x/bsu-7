@@ -1,0 +1,63 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="42A2C147-18DD-0CF3-CFCB-775452C37137" name="PUBLIC_HOUSE">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>66964955-2698-99B7-5658-1CDD157AFC81</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ID" id="1AFEAC92-2245-64D4-6B86-F7EF2E93B77B">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>7C981E98-86CE-0DEE-1D40-ED854A81C340</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="3C81BE2B-1C34-C5CF-44FB-1A1E197F4D2C" referredColumn="E44F2D33-221F-B334-775C-9CEF2D9B1BB5"/>
+</associations>
+</Column>
+<Column name="Rental_fee" id="949BF382-FFD2-78DC-63A9-03C8D892A4B2">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>216D14E2-F6FF-0241-57D5-BB2ADFE9850C</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="BF1EA2E8-4409-9F31-0D7A-F1A966D3FD52" name="PUBLIC_HOUSE_PK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>6B402096-BA41-B954-454C-141A544B0BB3</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="1AFEAC92-2245-64D4-6B86-F7EF2E93B77B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="02CD017F-FEDF-6765-EAC3-7BF8341F0C40" name="PUBLIC_HOUSE_VENUE_FK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-11 15:29:31 UTC</createdTime>
+<generatorID>75944DB3-4C64-E698-8A60-6279D7EB22C3</generatorID>
+<ownerDesignName>task1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="1AFEAC92-2245-64D4-6B86-F7EF2E93B77B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
