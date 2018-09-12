@@ -65,7 +65,7 @@ template <size_t N>
 double pearson_binomial(array<double, N> a, double p, int m) {
     double s = 0;
     for(int i = 0; i < m; i += 1) {
-        double v = C(m, i) * pow(p, i) * pow(1 - p, m - i);
+        double v = C(i, m) * pow(p, i) * pow(1 - p, m - i);
         s += pow(double(count_if(a.begin(), a.end(), [&i](int j) {return j == i;}))/ N -  v, 2) / v;
     }
     return s * N;
