@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="2017865F-3567-6BA9-791E-C9C8EFFCDB76" containerWithKeyObject="F41AB4D8-B9AF-5390-4858-E35A2E61478F" localFKIndex="3A36CA28-55A3-CF72-1CEB-7BDFF8F9961F" name="Teeth_Teeth_Type_FK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>1CBE5CDB-4C56-7510-93E1-EACF3EFD8960</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<referredTableLongName>Teeth_Type</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>022E4738-DA33-F56C-D0AE-E9F3638DB587</referredTableID>
+<keyObject>95C8E2F1-C121-D56A-92E6-5B8470BF35C5</keyObject>
+<referredKeyID>95C8E2F1-C121-D56A-92E6-5B8470BF35C5</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>id</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

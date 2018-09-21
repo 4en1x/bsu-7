@@ -1,0 +1,77 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="B5839312-B2A1-E3DF-D7F0-AEAABBE3CA96" name="Patient">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>8BB712E1-4CD7-356D-003E-8A125003D56E</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="person_id" id="E7F7AF59-2EF7-63D2-65F4-89BE3F30F7FE">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>E0A5E99C-FA93-444F-F0B1-35FEC77C18B7</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="2BBEEE63-AC30-F332-DB0D-FFE2E3A22D32" referredColumn="0EF14C86-F3F9-17AB-0829-EE18A05A0656"/>
+</associations>
+</Column>
+<Column name="personal_doctor_id" id="30CC01CB-5D79-9A09-2801-C74612608969">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>55210745-D1B5-6925-9A95-D4ACF3499B32</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="78CFFD9B-371B-AD93-EBDC-751F5F473A92" referredColumn="8C18EAAA-4F83-5CB4-6120-870EB8FFE456"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="6F5E098C-F8B3-10A0-9D9C-506E3A3DDFEE" name="Patient_PK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>0594CACA-E9EE-59E7-0458-5A5892307996</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E7F7AF59-2EF7-63D2-65F4-89BE3F30F7FE"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="981CC816-0EE4-FBA7-7759-EFD44B25DE5B" name="Patient_Person_FK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>B71BFD3B-0B4A-C7BD-D2E8-6CDBA6B0D99A</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E7F7AF59-2EF7-63D2-65F4-89BE3F30F7FE"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="244CE632-03FB-A9FC-3E75-54B83C669854" name="Patient_Doctor_FK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>05C62B2A-5078-07A3-5658-1EF1D92A2AB0</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="30CC01CB-5D79-9A09-2801-C74612608969"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

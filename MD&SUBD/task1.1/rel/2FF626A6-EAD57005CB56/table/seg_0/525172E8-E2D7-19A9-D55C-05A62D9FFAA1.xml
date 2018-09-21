@@ -1,0 +1,139 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="525172E8-E2D7-19A9-D55C-05A62D9FFAA1" name="Visit">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>02494919-DA8D-064B-7600-5751DB03C94C</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id" id="67564001-AC3D-D8F7-C1FE-B6F54443B08D">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>2E2976D6-156F-32E3-17B3-4A466F3C8FEE</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="datetime" id="34485955-54F3-2619-299E-9B4D67C41521">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>1D31CAB3-EB3D-AFB5-FA39-579449F12E98</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT008</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="description" id="8BE6BA63-F455-3AC0-8BEE-A26DC9EBFA4E">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>81039CE1-92C4-EA6A-AB70-16D9FA61A325</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT040</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="cost" id="1A9B19EB-C45B-1878-8A12-3F111E2D596C">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>32B88C55-ACF8-B404-B5D4-B016AE69C832</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT043</logicalDatatype>
+<dataTypePrecision>2</dataTypePrecision>
+<ownDataTypeParameters>,2,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="patient_id" id="A0419F10-B712-449C-CB46-16D461D1DE17">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>E47BEE31-6841-8398-28E7-AE7460F2DD7D</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="3F05C4A6-8683-EBB5-BDF6-68C844EEE831" referredColumn="E7F7AF59-2EF7-63D2-65F4-89BE3F30F7FE"/>
+</associations>
+</Column>
+<Column name="doctor_id" id="FC80A78D-E90A-F306-6E4F-AF954B9C0058">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>80A263D7-DE3B-2492-D7C1-711C6DA14951</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="48526157-C5EB-6B6B-C108-27692CF47B80" referredColumn="8C18EAAA-4F83-5CB4-6120-870EB8FFE456"/>
+</associations>
+</Column>
+<Column name="card_number" id="D95D2DC6-CED9-EC08-4D31-89481FCC8543">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>96226DE1-1DFA-8CA2-29EF-34E09BA2D2A6</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45</dataTypeSize>
+<defaultValue>0</defaultValue>
+<ownDataTypeParameters>45,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="01DC1C99-0B4C-B2B7-C7C2-CD247FDAC22D" name="Visit_PK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>7A025788-9443-829E-0092-1158B1D72976</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="67564001-AC3D-D8F7-C1FE-B6F54443B08D"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="FBBA7B51-0FB3-E658-9DA7-128820C311C0" name="Visit_Patient_FK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>6504A6C6-10CE-4E4A-13C7-411F4A58B47A</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A0419F10-B712-449C-CB46-16D461D1DE17"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="AB352D99-F522-0919-B7F6-C7549903424F" name="Visit_Doctor_FK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>67791114-B2ED-61BA-D30B-C7DD9B3E684B</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="FC80A78D-E90A-F306-6E4F-AF954B9C0058"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

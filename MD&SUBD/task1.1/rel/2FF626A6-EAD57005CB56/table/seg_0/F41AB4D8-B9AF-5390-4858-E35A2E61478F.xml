@@ -1,0 +1,88 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="F41AB4D8-B9AF-5390-4858-E35A2E61478F" name="Teeth">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<ownerDesignName>task1.1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="patient_id" id="6B3E1468-E653-532A-4A7C-2B99DBD7EEC3">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<ownerDesignName>task1.1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="9579877B-A88A-1056-76A2-28C9CFD01FB2" referredColumn="E7F7AF59-2EF7-63D2-65F4-89BE3F30F7FE"/>
+</associations>
+</Column>
+<Column name="teeth_type_id" id="75403221-37A8-02BA-4C96-8E26C7C2386D">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<ownerDesignName>task1.1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="2017865F-3567-6BA9-791E-C9C8EFFCDB76" referredColumn="0522CFC0-77E1-CD77-A1FA-FD43DA914B13"/>
+</associations>
+</Column>
+<Column name="num" id="831E985A-5803-8B4C-BEF3-61E8AF979EF7">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>B40F8253-20A3-7C47-6F4B-2BE09961761B</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<isRelationshipColumn>true</isRelationshipColumn>
+<isDependOnFK_AsMandatory>true</isDependOnFK_AsMandatory>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="D07D18DF-230D-A11A-A48D-E2E098915E47" name="Teeth_PK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<ownerDesignName>task1.1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="6B3E1468-E653-532A-4A7C-2B99DBD7EEC3"/>
+<colUsage columnID="75403221-37A8-02BA-4C96-8E26C7C2386D"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="2A2209CA-7299-529F-4848-A60DBFAE50D6" name="Teeth_Patient_FK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>1CBE5CDB-4C56-7510-93E1-EACF3EFD8960</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="6B3E1468-E653-532A-4A7C-2B99DBD7EEC3"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="3A36CA28-55A3-CF72-1CEB-7BDFF8F9961F" name="Teeth_Teeth_Type_FK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>1CBE5CDB-4C56-7510-93E1-EACF3EFD8960</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="75403221-37A8-02BA-4C96-8E26C7C2386D"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

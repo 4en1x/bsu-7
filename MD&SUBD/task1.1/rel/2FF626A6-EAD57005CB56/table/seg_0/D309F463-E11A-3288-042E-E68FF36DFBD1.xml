@@ -1,0 +1,64 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="D309F463-E11A-3288-042E-E68FF36DFBD1" name="Doctor">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>F8F7E44E-4301-8D12-9854-7B4C165EDB05</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="person_id" id="8C18EAAA-4F83-5CB4-6120-870EB8FFE456">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>E0A5E99C-FA93-444F-F0B1-35FEC77C18B7</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="2E83B9E3-309D-061D-7F7F-D02AF2FF90D0" referredColumn="0EF14C86-F3F9-17AB-0829-EE18A05A0656"/>
+</associations>
+</Column>
+<Column name="qualification" id="122A4B6A-D56D-6EC5-7F5C-57D1062BED49">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>5EF7C9F1-0C29-8C6C-A67F-6CE79B7B05D1</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>120</dataTypeSize>
+<ownDataTypeParameters>120,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="0EFE280B-1091-23BC-8EFF-EE263650A211" name="Doctor_PK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>0594CACA-E9EE-59E7-0458-5A5892307996</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="8C18EAAA-4F83-5CB4-6120-870EB8FFE456"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="2CCEE9F9-BC11-3104-C2FF-F574B29B7167" name="Doctor_Person_FK">
+<createdBy>5en1x</createdBy>
+<createdTime>2018-09-20 14:00:45 UTC</createdTime>
+<generatorID>4E4BFD79-7BD7-E507-C334-30F21A009A57</generatorID>
+<ownerDesignName>task1.1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="8C18EAAA-4F83-5CB4-6120-870EB8FFE456"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
