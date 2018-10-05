@@ -38,11 +38,11 @@
 
  ~~~sql
  SELECT SUBSTR(
- 				  LOWER(empname), 
- 				  1, 
- 				  CASE WHEN LENGTH(RTRIM(LOWER(empname), 't')) <= LENGTH(empname) - 1 THEN LENGTH(empname) - 1
- 				  ELSE LENGTH(empname) 
- 				  END  
+ 	      LOWER(empname), 
+ 	      1, 
+ 	      CASE WHEN LENGTH(RTRIM(LOWER(empname), 't')) <= LENGTH(empname) - 1 THEN LENGTH(empname) - 1
+ 	      ELSE LENGTH(empname) 
+ 	      END  
 ) AS name_lower_without_t_one_word FROM emp WHERE empname NOT LIKE('% %');
  ~~~ 
  
@@ -61,9 +61,9 @@
 
  ~~~sql
  SELECT (
- 		CASE WHEN jobname IN ('DRIVER', 'CLERK') THEN 'WORKER'
- 		ELSE jobname
- 		END
+ 	CASE WHEN jobname IN ('DRIVER', 'CLERK') THEN 'WORKER'
+ 	ELSE jobname
+ 	END
  ) AS task_job FROM job;
  ~~~ 
  
@@ -107,12 +107,12 @@
  ~~~sql
 SELECT e.empname, s.salvalue, j.minsalary, j.jobname 
 FROM salary s
-        INNER JOIN emp e
-            ON (s.empno = e.empno) 
-        INNER JOIN career c
-            ON (e.empno = c.empno) 
-        INNER JOIN job j
-            ON (c.jobno = j.jobno) 
+      INNER JOIN emp e
+          ON (s.empno = e.empno) 
+      INNER JOIN career c
+          ON (e.empno = c.empno) 
+      INNER JOIN job j
+          ON (c.jobno = j.jobno) 
 WHERE s.salvalue = j.minsalary;
  ~~~ 
  
@@ -137,9 +137,9 @@ SELECT e.empname, c.startdate, c.enddate FROM emp e INNER JOIN career c USING(em
  ~~~sql
 SELECT e.empname, d.deptname, j.jobname, c.startdate, c.enddate
 FROM emp e
-		NATURAL JOIN career c 
-    	NATURAL JOIN dept d
-    	NATURAL JOIN job j
+	NATURAL JOIN career c 
+    NATURAL JOIN dept d
+    NATURAL JOIN job j
  ~~~ 
  
 ###### ВНЕШНЕЕ ОБЪЕДИНЕНИЕ:
