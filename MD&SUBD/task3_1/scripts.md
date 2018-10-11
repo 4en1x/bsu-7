@@ -38,14 +38,20 @@
 
  ~~~sql
  SELECT SUBSTR(
- 	      LOWER(empname), 
- 	      1, 
- 	      CASE WHEN LENGTH(RTRIM(LOWER(empname), 't')) <= LENGTH(empname) - 1 THEN LENGTH(empname) - 1
- 	      ELSE LENGTH(empname) 
- 	      END  
+        LOWER(empname), 
+        1, 
+        CASE WHEN LENGTH(RTRIM(LOWER(empname), 't')) <= LENGTH(empname) - 1 THEN LENGTH(empname) - 1
+        ELSE LENGTH(empname) 
+        END  
 ) AS name_lower_without_t_one_word FROM emp WHERE empname NOT LIKE('% %');
  ~~~ 
+ or
  
+ ~~~sql
+ SELECT SUBSTR(
+         LOWER(empname), 0, (-INSTR( LOWER(empname), 't', -1 ) / length(empname)) + length(empname)
+) AS name_lower_without_t_one_word FROM emp WHERE empname NOT LIKE('% %');
+ ~~~ 
  7. Выдать информацию о работниках, указав дату рождения в формате день(число), месяц(название), год(название).
 
  ~~~sql
@@ -61,8 +67,9 @@
 
  ~~~sql
  SELECT (
- 	CASE WHEN jobname IN ('DRIVER', 'CLERK') THEN 'WORKER'
- 	ELSE jobname
+ 	CASE 
+ 	    WHEN jobname IN ('DRIVER', 'CLERK') THEN 'WORKER'
+ 	    ELSE jobname
  	END
  ) AS task_job FROM job;
  ~~~ 
@@ -71,10 +78,8 @@
  9. Определите среднюю зарплату за годы, в которые были начисления не менее чем за три месяца.
 
  ~~~sql
- SELECT year, AVG(salvalue)
- FROM salary
- GROUP BY year
- HAVING COUNT(month) >= 3;
+ SELECT year, AVG(salvalue) FROM salary
+ GROUP BY year HAVING COUNT(month) >= 3;
  ~~~ 
 
 ### СОЕДИНЕНИЕ ПО РАВЕНСТВУ:
