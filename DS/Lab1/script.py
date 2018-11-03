@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 from sympy import *
 import math
 u = Symbol('u')
-f = open('test.txt', 'w')
+f = open('test_1.txt', 'w')
 ν = [10000, 20000, 30000, 50000]
 colors = ['red', 'blue', 'pink', 'green']
 

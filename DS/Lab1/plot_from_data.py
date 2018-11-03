@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 from sympy import *
 
-f = open('test.txt')
+f = open('test_1.txt')
 u = Symbol('u')
 ν = [10000, 20000, 30000, 50000]
 colors = ['red', 'blue', 'pink', 'green']
@@ -36,11 +36,11 @@ while True:
 
     count += 1
 
-    if count % 1 == 0:
+    if count % 20 == 0 or count % 20 == 1 or count % 20 == 2 or count % 20 == 3:
         plt.scatter(a[2], a[1], marker='.', c=colors[int(a[0])], linewidths=0.001)
         plt.ylim([float(mi), float(m)])
         plt.xlim([float(0), float(a[2])])
-        if count % 100 == 0:
+        if count % 1000 == 0:
             plt.pause(0.0005)
 
 plt.show()
