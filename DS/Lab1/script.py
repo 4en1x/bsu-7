@@ -1,8 +1,7 @@
-import matplotlib.pyplot as plt
 from sympy import *
 import math
 u = Symbol('u')
-f = open('test_1.txt', 'w')
+f = open('test_1_2.txt', 'w')
 ν = [10000, 20000, 30000, 50000]
 colors = ['red', 'blue', 'pink', 'green']
 
@@ -25,12 +24,6 @@ f_y = lambda x, y, t, j: (-3 * y * y / 2 + (P_g(x) - P0 - P_ac(t, j) - 2 * σ / 
 
 count = 0
 t = 0
-axes = plt.gca()
-axes.set_ylim([.0499999999975, .0500000000025])
-
-m = R0
-mi = R0
-
 
 def fu(h, x0, y0, t, j):
     y = y0 + h * f_y(x0, y0, t, j)
@@ -38,7 +31,7 @@ def fu(h, x0, y0, t, j):
     return x
 
 
-e = 4 * 10 ** -8
+e = 10 ** -9
 
 while True:
     h = h * 2

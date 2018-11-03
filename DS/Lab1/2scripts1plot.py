@@ -2,8 +2,8 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 from sympy import *
 
-f1 = open('test_1.txt')
-f2 = open('test_2.txt')
+f1 = open('test_1_2.txt')
+f2 = open('test_2_2.txt')
 
 u = Symbol('u')
 ν = [10000, 20000, 30000, 50000]
@@ -44,7 +44,7 @@ while True:
 
     count += 1
 
-plt.plot(x1, y1, c='blue')
-plt.plot(x2, y2, c='red')
+plt.plot(x1, y1, c='red')
+plt.plot(x2, y2, c='blue')
 
 plt.show()
