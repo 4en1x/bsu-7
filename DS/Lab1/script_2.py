@@ -1,7 +1,7 @@
 from sympy import *
 import math
 u = Symbol('u')
-f = open('test_2_2.txt', 'w')
+f = open('test_2.txt', 'w')
 ν = [10000, 20000, 30000, 50000]
 colors = ['red', 'blue', 'pink', 'green']
 
@@ -33,7 +33,7 @@ def fu(h, x0, y0, t, j):
     return x
 
 
-e = 10 ** -9
+e = 4 * 10 ** -8
 
 while True:
     h = h * 2

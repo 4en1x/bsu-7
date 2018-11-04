@@ -31,7 +31,7 @@ def fu(h, x0, y0, t, j):
     return x
 
 
-e = 10 ** -9
+e = 4 * 10 ** -8
 
 while True:
     h = h * 2
