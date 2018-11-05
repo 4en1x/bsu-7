@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.9.26)  1 NOV 2018 00:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.9.26)  4 NOV 2018 20:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2237,14 +2237,14 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 
 
 LaTeX Font Warning: Font shape `T2A/faq/bx/n' undefined
-(Font)              using `T2A/faq/m/n' instead on input line 147.
+(Font)              using `T2A/faq/m/n' instead on input line 146.
 
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 164.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 163.
 <<ot1.cmap>> (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )<<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Try loading font information for U+msa on input line 164.
+LaTeX Font Info:    Try loading font information for U+msa on input line 163.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -2252,7 +2252,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 164.
+LaTeX Font Info:    Try loading font information for U+msb on input line 163.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -2260,47 +2260,47 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Try loading font information for PD1+faq on input line 164.
+LaTeX Font Info:    Try loading font information for PD1+faq on input line 163.
 
-LaTeX Font Info:    No file PD1faq.fd. on input line 164.
+LaTeX Font Info:    No file PD1faq.fd. on input line 163.
 
 
 LaTeX Font Warning: Font shape `PD1/faq/m/n' undefined
-(Font)              using `PD1/pdf/m/n' instead on input line 164.
+(Font)              using `PD1/pdf/m/n' instead on input line 163.
 
-LaTeX Font Info:    Try loading font information for PU+faq on input line 164.
-LaTeX Font Info:    No file PUfaq.fd. on input line 164.
+LaTeX Font Info:    Try loading font information for PU+faq on input line 163.
+LaTeX Font Info:    No file PUfaq.fd. on input line 163.
 
 LaTeX Font Warning: Font shape `PU/faq/m/n' undefined
-(Font)              using `PU/pdf/m/n' instead on input line 164.
+(Font)              using `PU/pdf/m/n' instead on input line 163.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 181.
+(babel)             in language  on input line 180.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 181.
+(babel)             in language  on input line 180.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 181.
+(babel)             in language  on input line 180.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 181.
+(babel)             in language  on input line 180.
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 LaTeX Font Warning: Font shape `T2A/faq/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 185.
+(Font)              size <17.28> substituted on input line 184.
 
 
 LaTeX Font Warning: Font shape `T2A/faq/bx/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 186.
+(Font)              size <17.28> substituted on input line 185.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 201.
+(babel)             in language  on input line 200.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 201.
+(babel)             in language  on input line 200.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 201.
+(babel)             in language  on input line 200.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 201.
+(babel)             in language  on input line 200.
 [2] (./document.toc
 LaTeX Font Info:    Try loading font information for OT1+faq on input line 1.
 LaTeX Font Info:    No file OT1faq.fd. on input line 1.
@@ -2320,46 +2320,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
 \openout5 = `document.toc'.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 204.
+(babel)             in language  on input line 203.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 204.
+(babel)             in language  on input line 203.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 204.
+(babel)             in language  on input line 203.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 204.
+(babel)             in language  on input line 203.
  [3]
-Underfull \hbox (badness 4621) in paragraph at lines 216--217
+Underfull \hbox (badness 4621) in paragraph at lines 215--216
 \T2A/faq/m/n/14.4 (+20) ре-ше-ния дву-мер-но-го урав-не-ния Пуас-со-на на ос-но
 -ве красно-чјрного
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
 \T2A/faq/m/n/14.4 (+20) упо-ря-до-че-ния. Так-же бу-дет раз-ра-бо-тан и про-гра
 мм-но ре-а-ли-зо-ван
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 218.
+(babel)             in language  on input line 217.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 218.
+(babel)             in language  on input line 217.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 218.
+(babel)             in language  on input line 217.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 218.
+(babel)             in language  on input line 217.
 [4]
 
 Package hyperref Warning: bookmark level for unknown likechapter defaults to 0.
 
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 219.
+(babel)             in language  on input line 218.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 219.
+(babel)             in language  on input line 218.
 ! Undefined control sequence.
 \MakeUppercase ...ppercaseUnsupportedInPdfStrings 
                                                   
-l.219 	\likechapter{Р’РІРµРґРµРЅРёРµ}
+l.218 	\likechapter{Р’РІРµРґРµРЅРёРµ}
                                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2368,35 +2368,35 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 3525) in paragraph at lines 222--223
+Underfull \hbox (badness 3525) in paragraph at lines 221--222
 \T2A/faq/m/n/14.4 (+20) опи-сы-ва-ет по-тен-ци-аль-ное по-ле, вы-зван-ное за-да
 н-ным рас-пре-де-ле-ни-ем
  []
 
 
-Underfull \hbox (badness 5741) in paragraph at lines 233--234
+Underfull \hbox (badness 5741) in paragraph at lines 232--233
 []\T2A/faq/m/n/14.4 (+20) Уравнение Пуас-со-на мож-но ре-шить яв-но с по-мо-щью
  функ-ции
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 234.
+(babel)             in language  on input line 233.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 234.
+(babel)             in language  on input line 233.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 234.
+(babel)             in language  on input line 233.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 234.
+(babel)             in language  on input line 233.
 [5]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 234.
+(babel)             in language  on input line 233.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 234.
+(babel)             in language  on input line 233.
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.236 	\section{РђРїРїСЂРѕРєСЃРёРјР°С†РёСЏ}
+l.235 	\section{РђРїРїСЂРѕРєСЃРёРјР°С†РёСЏ}
                                            
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -2405,7 +2405,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.236 	\section{РђРїРїСЂРѕРєСЃРёРјР°С†РёСЏ}
+l.235 	\section{РђРїРїСЂРѕРєСЃРёРјР°С†РёСЏ}
                                            
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -2415,74 +2415,74 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 236.
+(babel)             in language  on input line 235.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 236.
+(babel)             in language  on input line 235.
 <images/5_dots.png, id=132, 227.4096pt x 145.5036pt>
 File: images/5_dots.png Graphic file (type png)
 <use images/5_dots.png>
-Package pdftex.def Info: images/5_dots.png  used on input line 262.
+Package pdftex.def Info: images/5_dots.png  used on input line 261.
 (pdftex.def)             Requested size: 241.84843pt x 154.74371pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 272.
+(babel)             in language  on input line 271.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 272.
+(babel)             in language  on input line 271.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 280.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 280.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 280.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 280.
 [6
 
 ]
-Underfull \hbox (badness 1033) in paragraph at lines 292--294
+Underfull \hbox (badness 1033) in paragraph at lines 291--293
 []\T2A/faq/m/n/14.4 (+20) Данный ме-тод не очень ча-сто ис-поль-зу-ет-ся на пра
 к-ти-ке, так как
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 295.
+(babel)             in language  on input line 294.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 295.
+(babel)             in language  on input line 294.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 304.
+(babel)             in language  on input line 303.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 304.
+(babel)             in language  on input line 303.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 304.
+(babel)             in language  on input line 303.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 304.
+(babel)             in language  on input line 303.
 [7 <./images/5_dots.png>]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 318.
+(babel)             in language  on input line 317.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 318.
+(babel)             in language  on input line 317.
 
-Underfull \hbox (badness 2495) in paragraph at lines 320--322
+Underfull \hbox (badness 2495) in paragraph at lines 319--321
 \T2A/faq/m/n/14.4 (+20) а по-сколь-ку при по-лу-че-нии раз-ност-ных схем ис-пол
 ь-зо-вал-ся шаб-лон
  []
 
 
-Underfull \hbox (badness 1845) in paragraph at lines 320--322
+Underfull \hbox (badness 1845) in paragraph at lines 319--321
 \T2A/faq/m/n/14.4 (+20) друг от дру-га, ите-ра-ции мож-но рас-па-рал-ле-лить дл
 я каж-до-го цве-та.
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 322.
+(babel)             in language  on input line 321.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 322.
+(babel)             in language  on input line 321.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 322.
+(babel)             in language  on input line 321.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 322.
+(babel)             in language  on input line 321.
 [8]
 Package epstopdf Info: Source file: <images/red-black.eps>
 (epstopdf)                    date: 2018-10-16 03:22:11
@@ -2492,19 +2492,19 @@ Package epstopdf Info: Source file: <images/red-black.eps>
 (epstopdf)                    size: 33075 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/red-black-eps-conve
 rted-to.pdf images/red-black.eps>
-(epstopdf)             \includegraphics on input line 326.
+(epstopdf)             \includegraphics on input line 325.
 Package epstopdf Info: Output file is already uptodate.
 <images/red-black-eps-converted-to.pdf, id=179, 271.0125pt x 167.62625pt>
 File: images/red-black-eps-converted-to.pdf Graphic file (type pdf)
 <use images/red-black-eps-converted-to.pdf>
 Package pdftex.def Info: images/red-black-eps-converted-to.pdf  used on input l
-ine 326.
+ine 325.
 (pdftex.def)             Requested size: 241.84843pt x 149.59355pt.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.331 ...ЃРїР°СЂР°Р»Р»РµР»РёРІР°РЅРёРµ Рё Open MP}
+l.330 ...ЃРїР°СЂР°Р»Р»РµР»РёРІР°РЅРёРµ Рё Open MP}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -2513,7 +2513,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.331 ...ЃРїР°СЂР°Р»Р»РµР»РёРІР°РЅРёРµ Рё Open MP}
+l.330 ...ЃРїР°СЂР°Р»Р»РµР»РёРІР°РЅРёРµ Рё Open MP}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -2523,55 +2523,55 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 331.
+(babel)             in language  on input line 330.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 331.
+(babel)             in language  on input line 330.
 
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
 []\T2A/faq/m/n/14.4 (+20) Существует мно-же-ство раз-лич-ных тех-но-ло-гий па-р
 ал-лель-но-го
  []
 
 
-Underfull \hbox (badness 3000) in paragraph at lines 332--333
+Underfull \hbox (badness 3000) in paragraph at lines 331--332
 \T2A/faq/m/n/14.4 (+20) про-грам-ми-ро-ва-ния. При-чем эти тех-но-ло-гии раз-ли
 -ча-ют-ся не столь-ко
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
 []\T2A/faq/m/n/14.4 (+20) Определенные тех-но-ло-гии, на-при-мер, пред-по-ла-га
 -ют по-стро-е-ние
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 338--339
+Underfull \hbox (badness 1728) in paragraph at lines 337--338
 []\T2A/faq/m/n/14.4 (+20) Очень важ-но, что-бы тех-но-ло-гия па-рал-лель-но-го 
 про-грам-ми-ро-ва-ния
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--339
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
 \T2A/faq/m/n/14.4 (+20) по-сте-пен-но. Иде-аль-ную па-рал-лель-ную про-грам-му 
 сто-ит с са-мо-го
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 338--339
+Underfull \hbox (badness 1466) in paragraph at lines 337--338
 \T2A/faq/m/n/14.4 (+20) на-ча-ла пи-сать па-рал-лель-ной, пред-по-чти-тель-нее,
  ис-поль-зуя какой-либо
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 339.
+(babel)             in language  on input line 338.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 339.
+(babel)             in language  on input line 338.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 339.
+(babel)             in language  on input line 338.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 339.
+(babel)             in language  on input line 338.
 [9 <./images/red-black-eps-converted-to.pdf>]
-Underfull \hbox (badness 3058) in paragraph at lines 347--348
+Underfull \hbox (badness 3058) in paragraph at lines 346--347
 []\T2A/faq/m/n/14.4 (+20) Над спе-ци-фи-ка-ци-ей Open MP ве-дет ра-бо-ту мно-же
 -ство круп-ных
  []
@@ -2579,131 +2579,136 @@ Underfull \hbox (badness 3058) in paragraph at lines 347--348
 <images/openmp.png, id=192, 478.4274pt x 205.7286pt>
 File: images/openmp.png Graphic file (type png)
 <use images/openmp.png>
-Package pdftex.def Info: images/openmp.png  used on input line 352.
+Package pdftex.def Info: images/openmp.png  used on input line 351.
 (pdftex.def)             Requested size: 483.69687pt x 208.00084pt.
 
-Underfull \hbox (badness 2443) in paragraph at lines 349--358
+Underfull \hbox (badness 2443) in paragraph at lines 348--357
 \T2A/faq/m/n/14.4 (+20) слияниеї (Ри-су-нок []1.3[]) ^^U про-грам-ма на-чи-на-е
 т-ся как еди-ный по-ток
  []
 
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 358.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 358.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 358.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 358.
-[10]
-Underfull \hbox (badness 2608) in paragraph at lines 359--360
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 358--359
 []\T2A/faq/m/n/14.4 (+20) В Open MP су-ще-ству-ет ряд вспо-мо-га-тель-ных функ-
 ций. Для их
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 361.
+(babel)             in language  on input line 360.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 361.
-LaTeX Font Info:    Try loading font information for OMS+faq on input line 364.
+(babel)             in language  on input line 360.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 360.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 360.
+[10]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 360.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 360.
+LaTeX Font Info:    Try loading font information for OMS+faq on input line 363.
 
-LaTeX Font Info:    No file OMSfaq.fd. on input line 364.
+LaTeX Font Info:    No file OMSfaq.fd. on input line 363.
+
 
 LaTeX Font Warning: Font shape `OMS/faq/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 364.
+(Font)              for symbol `textbullet' on input line 363.
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 364--365
+Underfull \hbox (badness 1622) in paragraph at lines 363--364
 []\T2A/faq/m/n/14.4 (+20) omp_get_num_procs ^^U воз-вра-ща-ет чис-ло вы-чис-ли-
 тель-ных уз-лов
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 366--367
+Underfull \hbox (badness 1173) in paragraph at lines 365--366
 []\T2A/faq/m/n/14.4 (+20) omp_get_num_threads ^^U воз-вра-ща-ет чис-ло по-то-ко
 в, вхо-дя-щих в
  []
 
 
-Underfull \hbox (badness 3250) in paragraph at lines 367--368
+Underfull \hbox (badness 3250) in paragraph at lines 366--367
 []\T2A/faq/m/n/14.4 (+20) omp_set_num_thread ^^U за-да-ет чис-ло по-то-ков для 
 вы-пол-не-ния
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 368.
+(babel)             in language  on input line 369.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 368.
+(babel)             in language  on input line 369.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 368.
+(babel)             in language  on input line 369.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 368.
+(babel)             in language  on input line 369.
 [11 <./images/openmp.png>]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 375.
+(babel)             in language  on input line 374.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 375.
+(babel)             in language  on input line 374.
 
-Underfull \hbox (badness 1077) in paragraph at lines 376--377
+Underfull \hbox (badness 1077) in paragraph at lines 375--376
 []\T2A/faq/m/n/14.4 (+20) Open MP поз-во-ля-ет стро-ить па-рал-лель-ный код без
  ис-поль-зо-ва-ния
  []
 
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 385.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 385.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 385.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 385.
-[12]
-Underfull \hbox (badness 6125) in paragraph at lines 387--388
+
+Underfull \hbox (badness 6125) in paragraph at lines 386--387
 []\T2A/faq/m/n/14.4 (+20) Простые бло-ки-ров-ки (omp_lock_t) не мо-гут быть уст
 а-нов-ле-ны
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 387--388
+Underfull \hbox (badness 1005) in paragraph at lines 386--387
 \T2A/faq/m/n/14.4 (+20) бо-лее од-но-го ра-за, да-же тем же по-то-ком. Вкла-ды-
 ва-е-мые бло-ки-ров-ки
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 389.
+(babel)             in language  on input line 388.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 389.
+(babel)             in language  on input line 388.
 
-Underfull \hbox (badness 2573) in paragraph at lines 391--392
+Underfull \hbox (badness 2573) in paragraph at lines 390--391
 \T2A/faq/m/n/14.4 (+20) про-шед-шее с неко-то-ро-го мо-мен-та в про-шлом. Ес-ли
  неко-то-рый
  []
 
-
-Underfull \hbox (badness 4927) in paragraph at lines 393--394
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 391.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 391.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 391.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 391.
+[12]
+Underfull \hbox (badness 4927) in paragraph at lines 392--393
 []\T2A/faq/m/n/14.4 (+20) if (усло-вие) ^^U вы-пол-не-ние па-рал-лель-ной об-ла
 -сти по усло-вию.
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 398.
+(babel)             in language  on input line 397.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 398.
+(babel)             in language  on input line 397.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 398.
+(babel)             in language  on input line 397.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 398.
+(babel)             in language  on input line 397.
 [13]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 399.
+(babel)             in language  on input line 398.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 399.
+(babel)             in language  on input line 398.
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.400 ...Р°РЅРЅРѕРµ С‡РёСЃР»Рѕ РёС‚РµСЂР°С†РёР№. }
+l.399 ...Р°РЅРЅРѕРµ С‡РёСЃР»Рѕ РёС‚РµСЂР°С†РёР№. }
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -2712,7 +2717,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.400 ...Р°РЅРЅРѕРµ С‡РёСЃР»Рѕ РёС‚РµСЂР°С†РёР№. }
+l.399 ...Р°РЅРЅРѕРµ С‡РёСЃР»Рѕ РёС‚РµСЂР°С†РёР№. }
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -2722,19 +2727,19 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 400.
+(babel)             in language  on input line 399.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 400.
+(babel)             in language  on input line 399.
 
-Underfull \hbox (badness 2197) in paragraph at lines 431--432
+Underfull \hbox (badness 2197) in paragraph at lines 430--431
 []\T2A/faq/m/n/14.4 (+20) Для удоб-ства на каж-дом гра-фи-ке изоб-ра-зим как то
 ч-ное, так и
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 436.
+(babel)             in language  on input line 435.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 436.
+(babel)             in language  on input line 435.
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 439.
 Package babel Info: Redefining russian shorthand "~
@@ -2749,54 +2754,55 @@ Package babel Info: Redefining russian shorthand "~
 <images/yacobi_1000.png, id=223, 236.5638pt x 191.2746pt>
 File: images/yacobi_1000.png Graphic file (type png)
 <use images/yacobi_1000.png>
-Package pdftex.def Info: images/yacobi_1000.png  used on input line 447.
+Package pdftex.def Info: images/yacobi_1000.png  used on input line 446.
 (pdftex.def)             Requested size: 241.84843pt x 195.54695pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 453.
+(babel)             in language  on input line 452.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 453.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 461.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 461.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 461.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 461.
- [15 <./images/yacobi_1000.png>]
+(babel)             in language  on input line 452.
+
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 462.
+(caption)                particular \caption on input line 461.
 See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 465--465
+Underfull \hbox (badness 10000) in paragraph at lines 464--464
 []|\T2A/faq/m/n/14.4 (+20) Затраченное
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 465--465
+Underfull \hbox (badness 10000) in paragraph at lines 464--464
 \T2A/faq/m/n/14.4 (+20) вре-мя (в
  []
 
 
-Overfull \hbox (6.62874pt too wide) in paragraph at lines 465--465
+Overfull \hbox (6.62874pt too wide) in paragraph at lines 464--464
 []|\T2A/faq/m/n/14.4 (-20) Вычислительная
  []
 
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 483.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 483.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 483.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 483.
+[15 <./images/yacobi_1000.png>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 501.
+(caption)                particular \caption on input line 500.
 See the caption package documentation for explanation.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 501.
+(babel)             in language  on input line 500.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 501.
+(babel)             in language  on input line 500.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 501.
+(babel)             in language  on input line 500.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 501.
+(babel)             in language  on input line 500.
 [16]
 Missing character: There is no b in font nullfont!
 Missing character: There is no l in font nullfont!
@@ -2839,48 +2845,48 @@ Missing character: There is no 0 in font nullfont!
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 509.
+(caption)                particular \caption on input line 508.
 See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 513--514
+Underfull \hbox (badness 10000) in paragraph at lines 512--513
 []\T2A/faq/m/n/14.4 (+20) Приведјм срав-не-ние вре-ме-ни вы-пол-не-ния по-сле-д
 о-ва-тель-ных и
  []
 
 
-Underfull \hbox (badness 1931) in paragraph at lines 513--514
+Underfull \hbox (badness 1931) in paragraph at lines 512--513
 \T2A/faq/m/n/14.4 (+20) па-рал-лель-ных ал-го-рит-мов для ал-го-рит-мов Зей-де-
 ля и красно-черного
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 521.
+(babel)             in language  on input line 520.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 521.
+(babel)             in language  on input line 520.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 521.
+(babel)             in language  on input line 520.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 521.
+(babel)             in language  on input line 520.
 [17]
-Underfull \hbox (badness 3386) in paragraph at lines 523--525
+Underfull \hbox (badness 3386) in paragraph at lines 522--524
 \T2A/faq/m/n/14.4 (+20) ре-а-ли-за-ци-ях воз-мож-но ис-поль-зо-ва-ние зна-че-ни
 й, по-лу-чен-ных на
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 527.
+(babel)             in language  on input line 526.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 527.
+(babel)             in language  on input line 526.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 527.
+(babel)             in language  on input line 526.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 527.
+(babel)             in language  on input line 526.
 [18]
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.528 ...СЃ РѕС†РµРЅРєРѕР№ РїРѕРіСЂРµС€РЅРѕСЃС‚Рё}
+l.527 ...СЃ РѕС†РµРЅРєРѕР№ РїРѕРіСЂРµС€РЅРѕСЃС‚Рё}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -2889,7 +2895,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.528 ...СЃ РѕС†РµРЅРєРѕР№ РїРѕРіСЂРµС€РЅРѕСЃС‚Рё}
+l.527 ...СЃ РѕС†РµРЅРєРѕР№ РїРѕРіСЂРµС€РЅРѕСЃС‚Рё}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -2899,87 +2905,87 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 528.
+(babel)             in language  on input line 527.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 528.
+(babel)             in language  on input line 527.
 
-Underfull \hbox (badness 1019) in paragraph at lines 529--531
+Underfull \hbox (badness 1019) in paragraph at lines 528--530
 \T2A/faq/m/n/14.4 (+20) черного упо-ря-до-че-ния на 1, 2, 3, 4, 8 по-то-ках, та
 к-же бу-дем ме-нять
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 534.
+(babel)             in language  on input line 533.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 534.
+(babel)             in language  on input line 533.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 534.
+(babel)             in language  on input line 533.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 534.
+(babel)             in language  on input line 533.
 [19]
 <images/ch2_1.png, id=260, 478.4274pt x 244.7544pt>
 File: images/ch2_1.png Graphic file (type png)
 <use images/ch2_1.png>
-Package pdftex.def Info: images/ch2_1.png  used on input line 538.
+Package pdftex.def Info: images/ch2_1.png  used on input line 537.
 (pdftex.def)             Requested size: 338.58632pt x 173.22037pt.
 <images/ch2_2.png, id=261, 477.4638pt x 272.6988pt>
 File: images/ch2_2.png Graphic file (type png)
 <use images/ch2_2.png>
-Package pdftex.def Info: images/ch2_2.png  used on input line 546.
+Package pdftex.def Info: images/ch2_2.png  used on input line 545.
 (pdftex.def)             Requested size: 338.58632pt x 193.38863pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 552.
+(babel)             in language  on input line 551.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 552.
+(babel)             in language  on input line 551.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 552.
+(babel)             in language  on input line 551.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 552.
+(babel)             in language  on input line 551.
  [20 <./images/ch2_1.png> <./images/ch2_2.png>]
-<images/ch2_3.png, id=269, 478.4274pt x 248.6088pt>
+<images/ch2_3.png, id=268, 478.4274pt x 248.6088pt>
 File: images/ch2_3.png Graphic file (type png)
 <use images/ch2_3.png>
-Package pdftex.def Info: images/ch2_3.png  used on input line 555.
+Package pdftex.def Info: images/ch2_3.png  used on input line 554.
 (pdftex.def)             Requested size: 658.10779pt x 342.01073pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 560.
+(babel)             in language  on input line 559.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 560.
+(babel)             in language  on input line 559.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 560.
+(babel)             in language  on input line 559.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 560.
+(babel)             in language  on input line 559.
 [21 <./images/ch2_3.png>]
-Underfull \hbox (badness 2293) in paragraph at lines 565--566
+Underfull \hbox (badness 2293) in paragraph at lines 564--565
 []\T2A/faq/m/n/14.4 (+20) Ускорение ме-то-да красно-черного упо-ря-до-че-ния пр
 и уве-ли-че-нии
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 569.
+(babel)             in language  on input line 568.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 569.
+(babel)             in language  on input line 568.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 569.
+(babel)             in language  on input line 568.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 569.
+(babel)             in language  on input line 568.
 [22
 
 
 ]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 570.
+(babel)             in language  on input line 569.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 570.
+(babel)             in language  on input line 569.
 
 ! Undefined control sequence.
 \MakeUppercase ...ppercaseUnsupportedInPdfStrings 
                                                   
-l.570 \likechapter{Р—Р°РєР»СЋС‡РµРЅРёРµ}
+l.569 \likechapter{Р—Р°РєР»СЋС‡РµРЅРёРµ}
                                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2988,23 +2994,23 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 573.
+(babel)             in language  on input line 572.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 573.
+(babel)             in language  on input line 572.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 573.
+(babel)             in language  on input line 572.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 573.
+(babel)             in language  on input line 572.
 [23]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 574.
+(babel)             in language  on input line 573.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 574.
+(babel)             in language  on input line 573.
 
 ! Undefined control sequence.
 \MakeUppercase ...ppercaseUnsupportedInPdfStrings 
                                                   
-l.574 \begin{thebibliography}{9}
+l.573 \begin{thebibliography}{9}
                                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3020,7 +3026,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.579 ...Рµ РёР·Рґ. вЂ“ Рњ. : Р”Р°С€РєРѕРІ Рё РљВ°
+l.578 ...Рµ РёР·Рґ. вЂ“ Рњ. : Р”Р°С€РєРѕРІ Рё РљВ°
                                                    ; Р РѕСЃС‚РѕРІ РЅ/Р” : Рќ...
 
 You may provide a definition with
@@ -3029,7 +3035,7 @@ You may provide a definition with
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.580 ...csg.yale.edu/core/forms/Reforming_un.pdf}
+l.579 ...csg.yale.edu/core/forms/Reforming_un.pdf}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3037,7 +3043,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.580 ...csg.yale.edu/core/forms/Reforming_un.pdf}
+l.579 ...csg.yale.edu/core/forms/Reforming_un.pdf}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -3046,13 +3052,13 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 582--583
+Underfull \hbox (badness 1590) in paragraph at lines 581--582
 \T2A/faq/m/n/14.4 (+20) Тех-ни-че-ские усло-вия: СТБ 2135-2010. ^^U Введ. 01.07
 .11 (с от-ме-ной
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 582--583
+Underfull \hbox (badness 1881) in paragraph at lines 581--582
 \T2A/faq/m/n/14.4 (+20) на тер-ри-то-рии РБ ГОСТ 24741-81). ^^U Минск: Бе-ло-ру
 с. гос. ин-т
  []
@@ -3060,7 +3066,7 @@ Underfull \hbox (badness 1881) in paragraph at lines 582--583
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.584 ...‚Р°РЅРґР°СЂС‚РѕРІ, 1981. вЂ“ 6 СЃ..\right
+l.583 ...‚Р°РЅРґР°СЂС‚РѕРІ, 1981. вЂ“ 6 СЃ..\right
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3068,7 +3074,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing delimiter (. inserted).
 <to be read again> 
                    \def 
-l.585 \end{thebibliography}
+l.584 \end{thebibliography}
                            
 I was expecting to see something like `(' or `\{' or
 `\}' here. If you typed, e.g., `{' instead of `\{', you
@@ -3080,7 +3086,7 @@ nonnegative, or you can use `\delimiter <delimiter code>'.
 ! Extra \right.
 <to be read again> 
                    \def 
-l.585 \end{thebibliography}
+l.584 \end{thebibliography}
                            
 I'm ignoring a \right that had no matching \left.
 
@@ -3091,21 +3097,21 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.585 \end{thebibliography}
+l.584 \end{thebibliography}
                            
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Package natbib Warning: Empty `thebibliography' environment on input line 585.
+Package natbib Warning: Empty `thebibliography' environment on input line 584.
 
 
-Package natbib Warning: Empty `thebibliography' environment on input line 585.
+Package natbib Warning: Empty `thebibliography' environment on input line 584.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.585 \end{thebibliography}
+l.584 \end{thebibliography}
                            
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3113,20 +3119,20 @@ you left one out. Proceed, with fingers crossed.
 
 AED: lastpage setting LastPage
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 586.
+(babel)             in language  on input line 585.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 586.
+(babel)             in language  on input line 585.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 586.
+(babel)             in language  on input line 585.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 586.
+(babel)             in language  on input line 585.
 [24]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 586.
+(babel)             in language  on input line 585.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 586.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 586.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 586.
+(babel)             in language  on input line 585.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 585.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 585.
  (./document.aux
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `faq' (encoding: OT1).
@@ -3135,17 +3141,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 pdfTeX warning (font expansion): font should be expanded before its first use
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 586.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 586.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 585.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 585.
+Package rerunfilecheck Info: File `document.out' has not changed.
+(rerunfilecheck)             Checksum: 071525F31A42AAD1D26EAF98789F4C67;5039.
 
-
-Package rerunfilecheck Warning: File `document.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `document.out':
-(rerunfilecheck)             Before: C8B57C1BFDCB82D359CB828B4F013736;5039
-(rerunfilecheck)             After:  071525F31A42AAD1D26EAF98789F4C67;5039.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
@@ -3156,37 +3156,34 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 586.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 585.
  ) 
 Here is how much of TeX's memory you used:
- 45873 strings out of 492649
- 1005279 string characters out of 6129622
- 2546976 words of memory out of 5000000
- 48937 multiletter control sequences out of 15000+600000
+ 45871 strings out of 492649
+ 1005257 string characters out of 6129622
+ 2546911 words of memory out of 5000000
+ 48936 multiletter control sequences out of 15000+600000
  548949 words of font info for 115 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,17n,100p,10423b,2161s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{figure.caption.9} has been referenced but does no
-t exist, replaced by a fixed one
-
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<
-/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
-usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
-sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
-r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
-local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
-cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
-l/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
-exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
-xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texl
-ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
-e/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/
-2018/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/20
-18/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on document.pdf (24 pages, 702854 bytes).
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
+}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
+cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local
+/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
+texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/te
+xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texl
+ive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texliv
+e/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/
+2018/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on document.pdf (24 pages, 702731 bytes).
 PDF statistics:
- 350 PDF objects out of 1000 (max. 8388607)
- 289 compressed objects within 3 object streams
- 69 named destinations out of 1000 (max. 500000)
+ 349 PDF objects out of 1000 (max. 8388607)
+ 288 compressed objects within 3 object streams
+ 68 named destinations out of 1000 (max. 500000)
  14028 words of extra memory for PDF output out of 14400 (max. 10000000)
 
