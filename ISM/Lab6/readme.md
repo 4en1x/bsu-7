@@ -33,37 +33,30 @@
 > source code of [`lab6.gps`](https://github.com/4en1x/bsu-7/blob/master/ISM/Lab6/task.gps)
 
 ```asm
-proc STORAGE 2  ; two processors
+proc STORAGE 2 
 
      GENERATE 25
+     TRANSFER ,datt
+
+     GENERATE 25
+     TRANSFER ,datt
+
+     GENERATE 25
+     TRANSFER ,datt
+
+datt ADVANCE 20,10 
      TRANSFER ,work
 
-     GENERATE 25
-     TRANSFER ,datt
-
-     GENERATE 25
-     TRANSFER ,datt
-
-     GENERATE 25
-     TRANSFER ,datt
-
-datt QUEUE datatrans,1
-     ADVANCE 20,10 ;a=10 to b=30
-     DEPART datatrans
-     TRANSFER ,work
-
-work QUEUE waittime,1
-     ENTER proc ; Use a processor
+work QUEUE waittime     
+     ENTER proc
+     SEIZE waittime
      DEPART waittime
-     QUEUE worktime,1
      ADVANCE (EXPONENTIAL(1,0,20))
-     DEPART worktime
+     RELEASE waittime
      LEAVE proc
      TERMINATE
 
-     GENERATE 3600 ; 1 hour
+     GENERATE 3600
      TERMINATE 1
      START 1
-
-
 ```
