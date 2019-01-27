@@ -284,6 +284,7 @@
      FETCH CUR INTO R;
      IF :NEW.SALVALUE < R THEN
          :NEW.SALVALUE := :OLD.SALVALUE;
+     ELSE Raise_Error (1234567, 'Manager and Employee are not Enlisted with same Organisation');
      END IF;
      CLOSE CUR;
  END CHECK_SALARY;
